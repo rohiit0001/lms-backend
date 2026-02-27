@@ -12,4 +12,3 @@ userRouter.get("/",showUsers)
 userRouter.delete("/:id",deleteUser)
 
 export default userRouter
-
